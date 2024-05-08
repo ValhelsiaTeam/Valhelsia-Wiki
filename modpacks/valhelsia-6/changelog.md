@@ -161,10 +161,6 @@ Forge 47.2.30
 * Added additional Kiln recipes for Clayworks.
 * Allow Mekanism and Create Obsidian Dust to be interchangeable in recipes.
 
-{% hint style="info" %}
-Patch Note in progress...
-{% endhint %}
-
 ***
 
 ### 6.1.0 - Release Update
