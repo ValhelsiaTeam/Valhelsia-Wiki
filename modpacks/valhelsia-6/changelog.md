@@ -6,6 +6,76 @@ description: Full patch notes for every update to Valhelsia 6.
 
 ## <img src="../../.gitbook/assets/overworld.png" alt="" data-size="line"> <mark style="color:orange;">1.20.1</mark>
 
+### 6.2.1 - Minor Update
+
+Forge 47.2.32
+
+#### **Mods Added:**
+
+* [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+* [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome)
+* [Essential](https://www.curseforge.com/minecraft/mc-mods/essential-mod)
+* [Tetracelium](https://www.curseforge.com/minecraft/mc-mods/tetracelium)
+* [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)
+
+#### Mods Updated:
+
+<details>
+
+<summary>See list</summary>
+
+* Advancement Frames 2.2.7
+* AmbientSounds 6 6.0.1
+* Amendments 1.1.31
+* Applied Energistics 2 15.2.1
+* Ars Nouveau 4.11.0
+* Artifacts 9.5.4
+* Botania 444
+* CC: Tweaked 1.111.0
+* Chat Heads 0.12.2
+* Chunky 1.3.146
+* Create: Steam 'n' Rails 1.6.4
+* CreativeCore 2.11.29
+* Curios API 5.9.1
+* Dynamic View 4.0
+* Embeddium 0.3.19
+* Embers Rekindled 1.2.3
+* Enchantment Descriptions 17.0.15
+* Every Compat 2.6.55
+* FancyMenu 3.2.3
+* Guard Villagers 1.6.5
+* Integrated Tunnels 1.8.28
+* Login Protection 3.4
+* Loot Integrations 3.7
+* Macaw's Trapdoors 1.1.3
+* MineColonies 1.1.583-BETA
+* Moonlight Lib 2.11.31
+* Mouse Tweaks 2.25.1
+* Not Enough Animations 1.7.3
+* Open Parties and Claims 0.22.2
+* Polymorph 0.49.5
+* Quark 4.0-450
+* Resourceful Lib 2.1.25
+* Sawmill 1.3.15
+* Simple Backups 3.1.6
+* Sophisticated Core 0.6.22.611
+* Storage Racks 1.9
+* Structurize 1.0.733
+* Supplementaries 2.8.11
+* TerraBlender 3.0.1.6
+* TownTalk 1.1.0
+* YUNG's API 4.0.5
+* YUNG's Better Jungle Temples 2.0.5
+
+</details>
+
+#### **Patch Notes:**
+
+* When generating a world, the player spawn now with a Eccentric Tome including all guidebooks from mods.
+* Updated custom main menu.
+
+***
+
 ### 6.2.0 - Abnormal Update
 
 Forge 47.2.30
