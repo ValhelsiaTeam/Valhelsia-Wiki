@@ -18,11 +18,10 @@
 
 * [CurseForge](https://www.curseforge.com/members/valhelsiateam/projects)
 * [Twitter](https://twitter.com/valhelsia)
-* [Discord](https://discord.com/invite/rdfQuaM)
+* [Discord](https://discord.valhelsia.net)
 * [Reddit](https://www.reddit.com/r/Valhelsia/)
 * [YouTube](https://www.youtube.com/channel/UCYrkzSiGfNQcsQ-0sqOoNww)
 * [GitHub](https://github.com/ValhelsiaTeam)
-* [Rent A Server](https://www.bisecthosting.com/Valhelsia)
 
 ## Modpacks
 

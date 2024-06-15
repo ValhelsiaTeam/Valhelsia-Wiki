@@ -6,7 +6,7 @@ description: Frequently asked questions for Valhelsia projects.
 
 If you can't find an answer to your question here, please also look at the [Knowledge Base](knowledgebase/). It covers many things in much more depth than here - there are articles on several commonly asked questions and subjects.
 
-In addition, please check the pinned messages in the support channels on the Valhelsia [Discord server](https://valhelsia.net/discord) to see if your problem is mentioned there. We frequently cover temporary issues that apply only to specific versions of packs in the pinned messages there.
+In addition, please check the pinned messages in the support channels on the [Valhelsia Discord server](https://discord.valhelsia.net) to see if your problem is mentioned there. We frequently cover temporary issues that apply only to specific versions of packs in the pinned messages there.
 
 ## <mark style="color:orange;">General FAQ</mark>
 
@@ -32,7 +32,7 @@ Note that most modern Linux systems include OpenJDK by default but may not neces
 Please also see the [Server Setup](knowledgebase/server-setup.md) guide as it contains more information.\
 
 
-**Q: How do I get my server listed in #servers forum on the** [**Valhelsia Discord**](https://valhelsia.net/discord) **server?**\
+**Q: How do I get my server listed in #servers forum on the** [**Valhelsia Discord server**](https://discord.valhelsia.net)**?**\
 **A:** You can publish your advertise by yourself, you just have to select the tags and put some important information about your server.\
 \
 Many people also choose to advertise their Valhelsia servers on Reddit here: [https://www.reddit.com/r/feedthebeastservers/](https://www.reddit.com/r/feedthebeastservers/) (which, despite the name, isn't just for FTB servers), or on the [Valhelsia subreddit](https://www.reddit.com/r/Valhelsia/).

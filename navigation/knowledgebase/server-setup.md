@@ -134,4 +134,4 @@ If you still have lag after trying the above, you can track the cause of lag on 
 
 You will have to take different action depending on the source of the lag. Sometimes it will be immediately obvious, such as if a specific block or entity type takes up a significant portion of the tick time. If you don't know where on your server the relevant blocks / entities are, there is a useful mod called [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme) that can help. Please read through the mod description for how to use it. Of note is the `/tellme locate` command, which can search for things in any loaded chunks.
 
-If you are unsure how to proceed, you are welcome to contact us at our [Discord server](https://valhelsia.net/discord). We will likely need to see the results of your troubleshooting, above, so please ensure that you have completed that step before asking.
+If you are unsure how to proceed, you are welcome to contact us at our [Discord server](https://discord.valhelsia.net). We will likely need to see the results of your troubleshooting, above, so please ensure that you have completed that step before asking.

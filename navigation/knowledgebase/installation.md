@@ -8,7 +8,7 @@ description: >-
 
 We support the below launchers to play Valhelsia packs. Choose one of them and follow the instructions provided. Other launchers may work, but we don't officially support them.
 
-If you have followed these instructions and have any problems, we offer help in the support channels of the [Valhelsia Discord Server](https://discord.gg/valhelsia).
+If you have followed these instructions and have any problems, we offer help in the support channels of the [Valhelsia Discord server](https://discord.valhelsia.net).
 
 ## <mark style="color:orange;">CurseForge App</mark>
 
