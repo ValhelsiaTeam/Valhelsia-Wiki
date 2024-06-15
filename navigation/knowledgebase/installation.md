@@ -12,13 +12,11 @@ If you have followed these instructions and have any problems, we offer help in 
 
 ## <mark style="color:orange;">CurseForge App</mark>
 
-:inbox\_tray: [CurseForge App Download](https://curseforge.overwolf.com/)
+{% embed url="https://www.curseforge.com/" %}
+Link to their website.
+{% endembed %}
 
-{% hint style="warning" %}
-The CurseForge App is not currently available on Linux systems. Please use one of the below launchers instead.
-{% endhint %}
-
-1. Download and Install CurseForge app, link above.
+1. [Download](https://www.curseforge.com/download/app#download-options) and Install CurseForge app, link above.
 2. Open the CurseForge app, choose Minecraft and click on Browse Modpacks.
 3. Search for the pack you want to install (Enter `Valhelsia` and click on Install).
 4. Increase the memory to at least the minimum required for the chosen pack (see [Allocating Memory](allocating-memory.md#curseforge-client)).
@@ -26,13 +24,11 @@ The CurseForge App is not currently available on Linux systems. Please use one o
 
 ## <mark style="color:orange;">GDLauncher</mark>
 
-{% hint style="info" %}
-Third Party Minecraft Launchers can no longer automatically download all of the mods in our modpacks due to changes made by CurseForge (as of May 2022). You will need to manually download several mods (and/or resource packs) when using GDLauncher.
-{% endhint %}
+{% embed url="https://gdlauncher.com/" %}
+Link to their website.
+{% endembed %}
 
-:inbox\_tray: [GDLauncher Download](https://gdevs.io/#downloadContainer)
-
-1. [Download](https://gdevs.io/#downloadContainer) and Install GDLauncher.
+1. [Download](https://gdlauncher.com/) and Install GDLauncher.
 2. Open GDLauncher and click on the **+** icon, in the bottom-left corner..
 3. Search for the pack you want to install (Enter `Valhelsia` and click on Download Latest).
 4. You will need to manually download several mods before you can play.
@@ -45,7 +41,9 @@ Third Party Minecraft Launchers can no longer automatically download all of the 
 Third-party Minecraft Launchers can no longer automatically download all of the mods in our modpacks due to changes made by CurseForge (as of May 2022). You will need to manually download several mods (and/or resource packs) when using ATLauncher.
 {% endhint %}
 
-:inbox\_tray:[ ATLauncher Download](https://atlauncher.com/downloads)
+{% embed url="https://atlauncher.com/" %}
+Link to their website.
+{% endembed %}
 
 1. [Download](https://atlauncher.com/downloads) and Install ATLauncher. Use the _Setup (Recommended)_ button if you are unsure which version to download.
 2. Open ATLauncher, then select _Accounts_ on the right. You will need to add your Mojang / Microsoft account in order to play.
