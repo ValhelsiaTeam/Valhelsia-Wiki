@@ -32,7 +32,7 @@ We are proud to partner with [Proton](https://proton.valhelsia.net) to offer you
 Link to their website.
 {% endembed %}
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src=".gitbook/assets/1-Mail-home.png" alt=""><figcaption></figcaption></figure>
 
