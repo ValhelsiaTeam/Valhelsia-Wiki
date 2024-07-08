@@ -58,3 +58,5 @@
     * [Ores](external-mods/forbidden-and-arcanus/wiki/ores.md)
     * [Mobs](external-mods/forbidden-and-arcanus/wiki/mobs.md)
     * [Trees](external-mods/forbidden-and-arcanus/wiki/miscellaneous.md)
+    * [Datapack Guide](external-mods/forbidden-and-arcanus/wiki/datapack-guide/README.md)
+      * [Hephaestus Forge Rituals](external-mods/forbidden-and-arcanus/wiki/datapack-guide/hephaestus-forge-rituals.md)
