@@ -60,3 +60,5 @@
     * [Trees](external-mods/forbidden-and-arcanus/wiki/miscellaneous.md)
     * [Datapack Guide](external-mods/forbidden-and-arcanus/wiki/datapack-guide/README.md)
       * [Hephaestus Forge Rituals](external-mods/forbidden-and-arcanus/wiki/datapack-guide/hephaestus-forge-rituals.md)
+      * [Magic Circles](external-mods/forbidden-and-arcanus/wiki/datapack-guide/magic-circles.md)
+      * [Enhancers](external-mods/forbidden-and-arcanus/wiki/datapack-guide/enhancers.md)

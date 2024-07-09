@@ -4,7 +4,9 @@ Rituals are special crafting recipes executed at the [Hephaestus Forge](../block
 \
 Rituals can be configured using JSON files within a data pack in the path `data/<namespace>/forbidden_arcanus/hephaestus_forge/ritual`.
 
-
+{% hint style="warning" %}
+Rituals are currently not reloadable.
+{% endhint %}
 
 | Name               | Description                                                                                | Value                                                                      | Required |
 | ------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------- |
@@ -72,8 +74,6 @@ The following JSON file is used to create the Terrastomp Prism ritual. More exam
 
 
 ### Ritual Input
-
-
 
 | Name         | Description                                                     | Value                             | Required |
 | ------------ | --------------------------------------------------------------- | --------------------------------- | -------- |
