@@ -26,3 +26,7 @@ This is not a general tutorial on datapacks. If you're unfamiliar with the conce
 {% content-ref url="enhancers.md" %}
 [enhancers.md](enhancers.md)
 {% endcontent-ref %}
+
+{% content-ref url="item-modifiers.md" %}
+[item-modifiers.md](item-modifiers.md)
+{% endcontent-ref %}
