@@ -12,6 +12,101 @@ Forge 47.2.32
 
 #### **Mods Added:**
 
+* [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+* [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)
+* [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
+* [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits)
+* [Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight)
+
+#### Mods Updated:
+
+<details>
+
+<summary>See list</summary>
+
+* Advanced Peripherals 0.7.40r
+* AmbientSounds 6 6.0.1
+* Amendments 1.2.8
+* Applied Energistics 2 15.2.9
+* Ars Nouveau 4.12.1
+* Ars Énergistique 1.2.0
+* Artifacts 9.5.11
+* Balm 7.3.6
+* Better Days 3.1.0.6
+* Bookshelf 20.2.13
+* Botania 445
+* Botarium 2.3.4
+* Chat Heads 0.12.8
+* Comforts 6.4.0
+* Connectivity 5.6
+* Crafting Tweaks 18.2.4
+* CraterLib 2.0.1
+* Create Crafts & Additions 1.2.4c
+* Create Slice & Dice 3.2.1
+* CreativeCore 2.11.31
+* Cupboard 2.7
+* Cyclops Core 1.19.2
+* Elytra Slot 6.4.0
+* Embeddium 0.3.25
+* Embers Rekindled 1.3.8
+* Enchantment Descriptions 17.0.16
+* Essential Mod 1-3-2-8
+* Every Compat 2.6.66
+* FramedBlocks 9.3.0
+* Framework 0.7.6
+* GeckoLib 4.4.7
+* Guard Villagers 1.6.6
+* Integrated Dynamics 1.22.1
+* Integrated Terminals 1.4.15
+* Inventory HUD+ 3.4.22
+* Jade 11.9.4
+* Just Enough Items 15.3.0.8
+* Kotlin 4.11.0
+* KubeJS 2001.6.5-build.14
+* Let Me Despawn 1.2.1
+* LootJS: KubeJS Addon 2.12.0
+* Mekanism 10.4.8.43
+* Mekanism Additions 10.4.8.43
+* Mekanism Generators 10.4.8.43
+* Mekanism Tools 10.4.8.43
+* MineColonies 1.1.605-BETA
+* ModernFix 5.18.6
+* Moonlight Lib 2.12.6
+* Not Enough Animations 1.7.4
+* Open Parties and Claims 0.23.0
+* Paintings ++ 11.0.0.2
+* Placebo 8.6.2
+* Quark 4.0-458
+* Sawmill 1.4.3
+* Simple Discord RPC 3.3.2
+* Structure Essentials 3.4
+* Structurize 1.0.742-RELEASE
+* Supplementaries 2.8.17
+* TerraBlender 3.0.1.7
+* The Twilight Forest 4.3.2508
+* Tips 12.1.7
+* Waystones 14.1.4
+* Xaero's Minimap 24.2.1
+* Xaero's World Map 1.38.8
+* Zeta 1.0-19
+
+</details>
+
+#### **Patch Notes:**
+
+* Disabled Essential update notification.
+* Fixed Immersive Engineering squeezer and fermenter recipes.
+* Fixed PneumaticCraft speed upgrade recipes.
+* Prevent disconnection when using a quantum catcher on whales or giant squid.
+
+***
+
+### 6.2.1 - Minor Update
+
+Forge 47.2.32
+
+#### **Mods Added:**
+
 * [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
 * [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome)
 * [Essential](https://www.curseforge.com/minecraft/mc-mods/essential-mod)
