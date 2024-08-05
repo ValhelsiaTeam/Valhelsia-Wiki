@@ -6,9 +6,9 @@ description: Full patch notes for every update to Valhelsia 6.
 
 ## <img src="../../.gitbook/assets/overworld.png" alt="" data-size="line"> <mark style="color:orange;">1.20.1</mark>
 
-### 6.2.1 - Minor Update
+### 6.2.2 - Minor Update
 
-Forge 47.2.32
+Forge 47.3.5
 
 #### **Mods Added:**
 
