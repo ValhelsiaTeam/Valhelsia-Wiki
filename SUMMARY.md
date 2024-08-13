@@ -29,6 +29,8 @@
   * [Changelog](modpacks/valhelsia-enhanced-vanilla/changelog.md)
   * [Getting Started Guide](modpacks/valhelsia-enhanced-vanilla/getting-started-guide.md)
   * [Knowledge Base](modpacks/valhelsia-enhanced-vanilla/knowledge-base.md)
+* [Valhelsia 7](modpacks/valhelsia-7/README.md)
+  * [Changelog](modpacks/valhelsia-7/changelog.md)
 * [Valhelsia 6](modpacks/valhelsia-6/README.md)
   * [Changelog](modpacks/valhelsia-6/changelog.md)
 * [Valhelsia 5](modpacks/valhelsia-5/README.md)
