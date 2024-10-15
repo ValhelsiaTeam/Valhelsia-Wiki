@@ -51,6 +51,11 @@
 
 * [Forbidden and Arcanus](external-mods/forbidden-and-arcanus/README.md)
   * [Wiki](external-mods/forbidden-and-arcanus/wiki/README.md)
+    * [1.21.x](external-mods/forbidden-and-arcanus/wiki/1.21.x/README.md)
+      * [Blocks](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/README.md)
+        * [Hephaestus Forge](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/hephaestus-forge/README.md)
+          * [Essence Providers](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/hephaestus-forge/essence-providers.md)
+        * [Clibano](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/clibano.md)
     * [Item Modifiers](external-mods/forbidden-and-arcanus/wiki/item-modifiers.md)
     * [Items](external-mods/forbidden-and-arcanus/wiki/items/README.md)
       * [Enhancer Relics](external-mods/forbidden-and-arcanus/wiki/items/enhancer-relics.md)
