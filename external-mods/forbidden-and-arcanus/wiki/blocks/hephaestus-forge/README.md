@@ -13,7 +13,7 @@ The Hephaestus Forge is needed for every player that wants to dive deep into the
 To get started you will have to obtain the following materials:&#x20;
 
 * 48 Polished Darkstone
-* 9 Arcane Chiseled Polished Darkstone
+* 9 Gilded Chiseled Polished Darkstone
 * 4 Chiseled Arcane Polished Darkstone
 * 1 Mundabitur Dust
 * 1 Smithing Table
