@@ -6,7 +6,7 @@ description: >-
 
 # Hephaestus Forge
 
-The Hephaestus Forge is needed for every player that wants to dive deep into the world of forbidden magic. Gathering the required material for creating it might take a while, but it's worth the effort as it will open up the possibility of executing powerful rituals which can have various outcomes.&#x20;
+The Hephaestus Forge is needed for every player who wants to dive deep into the world of forbidden magic. Gathering the required material for creating it might take a while, but it's worth the effort as it will open up the possibility of executing powerful rituals which can have various outcomes.&#x20;
 
 ## <mark style="color:purple;">Setup</mark>
 
@@ -20,7 +20,7 @@ To get started you will have to obtain the following materials:&#x20;
 
 <figure><img src="../../../../../.gitbook/assets/Hephaestus Forge Base Pattern.png" alt=""><figcaption><p>In the first step you'll need to build a pattern like this which will serve as the base for the Hephaestus Forge.</p></figcaption></figure>
 
-After having built the above pattern, place the Smithing Table in the central spot above the Arcane Chiseled Polished Darkstone block. In order to transform it into the desired Hephaestus Forge you'll now only need to sneak and right-click with the Mundabitur Dust on the Smithing Table a bolt of corrupted lightning will strike the block and transform it.&#x20;
+After having built the above pattern, place the Smithing Table in the central spot above the Gilded Chiseled Polished Darkstone block. In order to transform it into the desired Hephaestus Forge you'll now only need to sneak and right-click with the Mundabitur Dust on the Smithing Table a bolt of corrupted lightning will strike the block and transform it.&#x20;
 
 **Congrats, you've successfully created your Hephaestus Forge!**
 
