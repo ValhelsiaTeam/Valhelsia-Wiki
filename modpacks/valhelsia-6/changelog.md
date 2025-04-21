@@ -6,6 +6,46 @@ description: Full patch notes for every update to Valhelsia 6.
 
 ## <img src="../../.gitbook/assets/overworld.png" alt="" data-size="line"> <mark style="color:orange;">1.20.1</mark>
 
+### 6.2.3 - Minor Update
+
+Forge 47.4.0
+
+#### **Mods Added:**
+
+* [Abnormals Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight)
+* [AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+* [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
+* [Chloride](https://www.curseforge.com/minecraft/mc-mods/chloride)
+* [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
+* [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
+* [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+#### Mods Removed:
+
+* Cherished Worlds
+* Sodium/Embeddium Extras
+* TexTrue's Embeddium Options
+
+#### Mods Updated:
+
+<details>
+
+<summary>See list</summary>
+
+* All mods updated, except for Create and related mods.
+
+</details>
+
+#### **Patch Notes:**
+
+* Update Furniture Fix script to work with new EveryCompat VF recipes too.
+* Remove 'minecraft:logs\_that\_burn' tag from Runewood Logs.
+* Remove Phantasmic's Soul Soil Smelting (conflicts with Create Scoria).
+* Disable the Quark Feeding Trough (creates lag even when unused).
+* Disable automatic Essential updates.
+
+***
+
 ### 6.2.2 - Minor Update
 
 Forge 47.3.5
