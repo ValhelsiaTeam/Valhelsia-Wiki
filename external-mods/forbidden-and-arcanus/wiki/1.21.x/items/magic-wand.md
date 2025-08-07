@@ -21,8 +21,6 @@ When holding a Magic Wand, two new UI elements appear:
 
 ### Aureal Missile
 
-#### Aureal Missile Spell
-
 The Aureal Missile is a simple yet powerful spell. Upon casting, it spawns an Aureal Projectile, dealing a total of 5 damage. This spell is economical, requiring only 5 Aureal to cast.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgQMa2lWfKGUl51wZg-%2Fuploads%2FhXQFeSzrxyRw3bMDM1Mu%2FUntitled%20video%20-%20Made%20with%20Clipchamp%20(3).mp4?alt=media&token=64601491-87fa-4c3b-9691-1a623105a30e" %}
