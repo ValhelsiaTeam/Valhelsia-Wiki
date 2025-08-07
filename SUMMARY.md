@@ -52,6 +52,8 @@
 * [Forbidden and Arcanus](external-mods/forbidden-and-arcanus/README.md)
   * [Wiki](external-mods/forbidden-and-arcanus/wiki/README.md)
     * [1.21.x](external-mods/forbidden-and-arcanus/wiki/1.21.x/README.md)
+      * [Items](external-mods/forbidden-and-arcanus/wiki/1.21.x/items/README.md)
+        * [Magic Wand](external-mods/forbidden-and-arcanus/wiki/1.21.x/items/magic-wand.md)
       * [Blocks](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/README.md)
         * [Hephaestus Forge](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/hephaestus-forge/README.md)
           * [Essence Providers](external-mods/forbidden-and-arcanus/wiki/1.21.x/blocks/hephaestus-forge/essence-providers.md)

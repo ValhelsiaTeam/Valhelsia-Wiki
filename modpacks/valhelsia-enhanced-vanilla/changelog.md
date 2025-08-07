@@ -821,7 +821,7 @@ Fabric Loader 0.13.3
 #### **Patch Notes:**
 
 * ~~Valhelsia cosmetics are now available for Fabric! To support us and get a beautiful Valhelsia Cape available on all our different modpacks and mods it's~~ [~~here~~](https://store.valhelsia.net/)~~.~~\
-  **(Edit: the Valhelsia Cosmetics button is missing, this should be fixed for the next version)**
+  &#xNAN;**(Edit: the Valhelsia Cosmetics button is missing, this should be fixed for the next version)**
 * Effects are now displayed on the left side of the inventory.
 * There is now only one version of the shader that you can configure from the menu to focus on performance, quality, or somewhere in-between.
 * The meteorites are back!
@@ -1059,7 +1059,7 @@ Fabric Loader 0.13.3
   \
   For those who wish to progress faster, you can always activate an alternative system by typing this command in your chat`!vconfig simple_advancement_points true`. This will give you 1 skill point for a task advancement, 2 skill points for a goal advancement and 3 skill points for a challenge advancement. You can also optionally disable the advanced system using`!vconfig individual_advancement_points false`. Config commands can only be used with cheats enabled or by an op on a server. Alternatively, the `vev_config.json` file can be edited directly.
 
-![](../../.gitbook/assets/2022-02-27\_15.56.23.png)
+![](../../.gitbook/assets/2022-02-27_15.56.23.png)
 
 * Changed the XP equation from 0.08 to 0.07, it will now take less XP to gain a new skill point at higher levels.
 * Removed the recipes to convert wool to string using a machete (due to missing functionality in KubeJS). Use the Cutting Board from Farmer's Delight instead.
@@ -1069,7 +1069,7 @@ Fabric Loader 0.13.3
 * Fixed XP duplication with Tech Reborn and allowed Tech Reborn's raw ore blocks to be crafted + uncrafted.
 * Reworked textures of Iron Chests (Fabric) based on the Forge mod.
 
-![](../../.gitbook/assets/2022-02-27\_16.01.57.png)
+![](../../.gitbook/assets/2022-02-27_16.01.57.png)
 
 * Advancement Plaques are now displayed lower down to prevent overlapping with the WTHIT display.
 * The armor part of Inventory HUD+ is now disabled by default (replaced by Detail Armor Bar).
@@ -1286,7 +1286,7 @@ Fabric Loader 0.12.12
 * New weapons in the strength category, welcome to the hammer!
 * Added information to the axes if it can cut the whole tree.
 
-![](../../.gitbook/assets/axe\_tooltip\_2.png)
+![](../../.gitbook/assets/axe_tooltip_2.png)
 
 * Changed the XP equation from 0.09 to 0.08, it will now take less XP to gain a new skill point at higher levels. More improvements will be made with the next update.
 
@@ -1424,7 +1424,7 @@ Fabric Loader 0.12.11
 
 * Added first start message and link to [getting started guide](getting-started-guide.md). This will only display the first time you join a world.
 
-![](../../.gitbook/assets/valhelsia-enhanced-vanilla.first\_start\_message.png)
+![](../../.gitbook/assets/valhelsia-enhanced-vanilla.first_start_message.png)
 
 * Added Bundle and extra Dispenser recipe.
 * Added several recipes to the Cutting Board.
@@ -1449,7 +1449,7 @@ Fabric Loader 0.12.11
 * Added many new types of food and crops via [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric).
 * The texture of the Rubber Leaves has been improved.
 
-![Before](../../.gitbook/assets/rubber-leaves\_before.png) ![After](../../.gitbook/assets/rubber-leaves\_after.png)
+![Before](../../.gitbook/assets/rubber-leaves_before.png) ![After](../../.gitbook/assets/rubber-leaves_after.png)
 
 * Updated to Minecraft 1.18.1.
 

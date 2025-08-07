@@ -247,7 +247,7 @@ Forge 36.2.22
 * Fixes some limited duplication exploits.&#x20;
 * Fixes some issues involving Armor Stands.&#x20;
 * Mystical World has had several things changed or improved, including changing Amethyst into Sapphire. You may lose existing Amethyst items due to item IDs changing.&#x20;
-* Mekanism has had a major content update. See here for more information: [https://www.reddit.com/r/feedthebeast/comments/rmcthj/mekanism\_101\_released/](https://www.reddit.com/r/feedthebeast/comments/rmcthj/mekanism\_101\_released/)
+* Mekanism has had a major content update. See here for more information: [https://www.reddit.com/r/feedthebeast/comments/rmcthj/mekanism\_101\_released/](https://www.reddit.com/r/feedthebeast/comments/rmcthj/mekanism_101_released/)
 
 ![](../../.gitbook/assets/curseforge.-.png)
 
@@ -479,7 +479,7 @@ Forge 36.2.8
 
 #### **Patch Notes:**
 
-*   Halloween has arrived! For the next week_¹_, Candy now drops from the hostile mobs_²_, death or treat! New cosmetics are also available in our [store](https://store.valhelsia.net/), take a look!
+*   Halloween has arrived! For the next wee&#x6B;_&#xB9;_, Candy now drops from the hostile mob&#x73;_&#xB2;_, death or treat! New cosmetics are also available in our [store](https://store.valhelsia.net/), take a look!
 
     _¹ Available from October 29 to November 5._
 
