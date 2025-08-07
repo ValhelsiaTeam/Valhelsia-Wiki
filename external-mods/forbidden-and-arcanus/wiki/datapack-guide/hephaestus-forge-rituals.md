@@ -24,7 +24,7 @@ Rituals are currently not reloadable.
 
 ### Example JSON
 
-The following JSON file is used to create the Terrastomp Prism ritual. More examples can be found on the [GitHub](https://github.com/stal111/Forbidden-Arcanus/tree/189c3ca451af186415e3e2f3f0fbb4d8226819b6/src/generated/resources/data/forbidden\_arcanus/forbidden\_arcanus/hephaestus\_forge/ritual).
+The following JSON file is used to create the Terrastomp Prism ritual. More examples can be found on the [GitHub](https://github.com/stal111/Forbidden-Arcanus/tree/189c3ca451af186415e3e2f3f0fbb4d8226819b6/src/generated/resources/data/forbidden_arcanus/forbidden_arcanus/hephaestus_forge/ritual).
 
 {% code lineNumbers="true" %}
 ```json
@@ -84,10 +84,11 @@ The following JSON file is used to create the Terrastomp Prism ritual. More exam
 
 ### Ritual Result
 
-The ritual result determines the outcome of the ritual. Currently there are two types:&#x20;
+The ritual result determines the outcome of the ritual. Currently there are three types:&#x20;
 
 * `forbidden_arcanus:create_item`
 * `forbidden_arcanus:upgrade_tier`
+* `forbidden_arcanus:transmute_input`
 
 #### Create Item
 
@@ -107,6 +108,12 @@ Upgrades the forge tier to the next one if a higher one is available.
 <table><thead><tr><th width="187">Name</th><th>Description</th><th>Value</th><th>Required</th></tr></thead><tbody><tr><td><code>type</code></td><td>The result type.</td><td><code>forbidden_arcanus:upgrade_tier</code></td><td>true</td></tr></tbody></table>
 
 
+
+#### Transmute Input
+
+Copies the input item stack, changing the item type but preserving all stack components like enchantments.
+
+<table><thead><tr><th width="187">Name</th><th>Description</th><th>Value</th><th>Required</th></tr></thead><tbody><tr><td><code>type</code></td><td>The result type.</td><td><code>forbidden_arcanus:transmute_input</code></td><td>true</td></tr><tr><td><code>result_item</code></td><td>The result item type</td><td>An item.</td><td>true</td></tr></tbody></table>
 
 ### Essences Definition
 
